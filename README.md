@@ -16,7 +16,7 @@ Installation (Windows):
 10. After it launches, navigate to `%appdata%\MarallysLauncher\clients\`, then navigate to the profile you chose (SMP or RP) within that folder.
 11. Copy all files from that folder to the 'minecraft' folder you created earlier.
 <br></br>
-13. Download the patcher and injector from Releases
+13. Download the patcher and injector from [Releases](https://github.com/jbsparrow/marallys-auth-patcher/releases/latest)
 14. Navigate to the profile folder (Click 'Folder' in Prism)
 15. Place the patcher and injector into this folder
 <br></br>
