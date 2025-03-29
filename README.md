@@ -1,9 +1,10 @@
 # Marallys Authentication Patcher
 based on https://github.com/CatMe0w/mmcai_rs
 
+# Installation
 
-Installation (Windows): 
-Video installation guide: https://youtu.be/LUqX4GtlUQU
+## Installation (Windows)
+Video guide: https://youtu.be/LUqX4GtlUQU<br></br>
 1. Install [Prism launcher](https://prismlauncher.org/).
 2. Click "Add Instance"
 3. Set version to 1.20.1
@@ -28,3 +29,9 @@ Video installation guide: https://youtu.be/LUqX4GtlUQU
     It should look something like this: <img width="916" alt="prismlauncher Console_window_for_1 20 1_-_Prism_Launcher_9 2 28-03-25 1832x263 f71953df-150c-4fe6-9e" src="https://github.com/user-attachments/assets/f91f0c9b-1be7-4663-80ec-1251c3582343" />
 <br></br>
 21. The setup is complete. You can now launch your game through prism with no logging to sentry or restrictions on what mods you can use.
+
+## Installation (MacOS)
+Coming Soon
+
+## Installation (Linux)
+Coming Soon
