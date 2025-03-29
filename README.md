@@ -1,5 +1,4 @@
 # Marallys Authentication Patcher
-based on https://github.com/CatMe0w/mmcai_rs
 
 # Installation
 
@@ -35,3 +34,7 @@ Coming Soon
 
 ## Installation (Linux)
 Coming Soon
+
+---
+
+Credits: https://github.com/CatMe0w/mmcai_rs for the original project to implement the auth injection into Prism
