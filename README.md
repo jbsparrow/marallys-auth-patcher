@@ -3,6 +3,7 @@ based on https://github.com/CatMe0w/mmcai_rs
 
 
 Installation (Windows): 
+Video installation guide: https://youtu.be/LUqX4GtlUQU
 1. Install [Prism launcher](https://prismlauncher.org/).
 2. Click "Add Instance"
 3. Set version to 1.20.1
