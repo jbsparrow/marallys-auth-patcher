@@ -152,7 +152,6 @@ fn yggdrasil_login(
     headers.insert("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0".parse().unwrap());
     headers.insert("Accept", "application/json".parse().unwrap());
     headers.insert("Accept-Language", "en-US,en;q=0.5".parse().unwrap());
-    headers.insert("Accept-Encoding", "gzip, deflate".parse().unwrap());
     headers.insert("Content-Type", "application/json".parse().unwrap());
 
     let auth_body = AuthRequest {
